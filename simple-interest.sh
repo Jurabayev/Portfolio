@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Jurabayev
+# Jurabayev account
 
 # Input:
 # p, principal amount
